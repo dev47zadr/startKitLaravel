@@ -1,0 +1,5 @@
+*
+!docker/
+!testLaravel/
+!run.bash
+!README.md
